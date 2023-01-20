@@ -8,3 +8,4 @@ git status
 git clone
 git congig --global user.mail
 git congig --global user.name
+just for checking git pull
