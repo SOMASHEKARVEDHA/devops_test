@@ -5,3 +5,4 @@ git init
 gid add .
 git commit -m 
 git status
+git clone
