@@ -6,3 +6,5 @@ gid add .
 git commit -m 
 git status
 git clone
+git congig --global user.mail
+git congig --global user.name
