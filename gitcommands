@@ -1,0 +1,14 @@
+#!/bin/bash
+yum install git
+git --version
+git clone github code
+git status
+git add .
+git commit -m "your message"
+git status
+git push
+git config --golabl user.mail
+git config --global user.name
+token clone passwd
+git pull ==> pull the datafrom git hub repository
+git cherry-pick ==> commit id copy
