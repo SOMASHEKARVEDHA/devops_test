@@ -12,3 +12,6 @@ git config --global user.name
 token clone passwd
 git pull ==> pull the datafrom git hub repository
 git cherry-pick ==> commit id copy
+
+
+for i in linux jenkins docker kubernetes ansible terraform; do mkdir $i && touch $i/README.md; done
