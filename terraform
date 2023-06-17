@@ -1,0 +1,5 @@
+terraform init
+terrform fmt
+terrform validate
+terrform plan
+terrform apply
